@@ -91,7 +91,7 @@ Clonar repositorio
 
 ### Instalation
 
-## carpeta FRONTEND
+## carpeta Client
 Instalacion de todas las dependecias
 
 * npm
@@ -128,7 +128,7 @@ Instalacion de todas las dependecias
 - [x] JSON Web Token (JWT): Anti Sql injection en registro de susuarios y login
 - [x] Cookies Expiracion 1h 
 
-# Levantar BACKEND
+# Levantar Server
 * npm
   ```sh
   npm npm run dev
