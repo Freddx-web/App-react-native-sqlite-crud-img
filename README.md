@@ -109,7 +109,7 @@ Instalacion de todas las dependecias
 # Levantar FRONTEND
 * npm
   ```sh
-  npm npm start
+   npm start
   ```
 
 ## carpeta BACKEND
@@ -117,7 +117,7 @@ Instalacion de todas las dependecias
 Instalacion de todas las dependecias
 * npm
  ```sh
-  npm npm install 
+  npm install 
   ```
 
 - NODE.JS (Express)
@@ -131,7 +131,7 @@ Instalacion de todas las dependecias
 # Levantar Server
 * npm
   ```sh
-  npm npm run dev
+  npm run dev
   ```
 
 ## DATABASE
