@@ -89,10 +89,11 @@ Clonar repositorio
   git clone https://github.com/Freddx-web/App-test-gallery-img.git
   ```
 
-### Instalation
+## Instalation
 
-## carpeta Client
-Instalacion de todas las dependecias
+### carpeta Client
+Es donde esta el frontend de la app mobile, para la prueba y levantamiento del proyecto 
+se necesita ejecutarse algunas sentencias en el comando en la ruta del archivo (`App-test-gallery-img/client`) para instalar las dependecias 
 
 * npm
   ```sh
@@ -106,19 +107,25 @@ Instalacion de todas las dependecias
 - [x] Axios: API REST comunicacion de la aplicacion
 - [x] navigacion y estilo UI modernos
 
-# Levantar FRONTEND
+### Levantar Client 
+para probar:
 * npm
   ```sh
    npm start
   ```
+  
+<hr>
 
-## carpeta BACKEND
+## carpeta Server
+Es donde posa y esta todas las funcionalidades, parametros del Backend, para la Instalacion de todas las dependecias se necesita ejutar varias sentecias en el
+archivo  (`App-test-gallery-img/server`) 
 
-Instalacion de todas las dependecias
+para instalacion de dependecias
 * npm
  ```sh
   npm install 
   ```
+para descarga todas las dependecias
 
 - NODE.JS (Express)
 - JSON Web Token (JWT) Autenticacion  <a href="https://jwt.io/">https://jwt.io/</a>
@@ -129,6 +136,7 @@ Instalacion de todas las dependecias
 - [x] Cookies Expiracion 1h 
 
 # Levantar Server
+Para levantar el Backend:
 * npm
   ```sh
   npm run dev
