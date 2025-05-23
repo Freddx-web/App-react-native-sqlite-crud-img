@@ -65,7 +65,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Built With
-[Expo GO]([https://expo.dev/client](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=es_VE&pli=1))🔼es una herramienta de desarrollo de pruebas en los Smartphone para crear experiencias con gestos y gráficos interactivos, utilizando JavaScript y [React Native](https://reactnative.dev/).⚛️
+
+[Expo Go]([https://reactnative.dev/](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=es_VE&pli=1)🔼es una herramienta de desarrollo de pruebas en los Smartphone para crear experiencias con gestos y gráficos interactivos, utilizando JavaScript y [React Native](https://reactnative.dev/).⚛️
 ![Product Name Screen Shot][product-screenshot]
 
 * [![Next][Next.js]][Next-url]
