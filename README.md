@@ -65,7 +65,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Built With
-[Expo GO](https://expo.dev/client)🔼is a development tool for creating experiences with gestures and interactive graphics, using JavaScript and [React Native](https://reactnative.dev/).⚛️
+[Expo GO](https://expo.dev/client)🔼es una herramienta de desarrollo para crear experiencias con gestos y gráficos interactivos, utilizando JavaScript y [React Native](https://reactnative.dev/).⚛️
 ![Product Name Screen Shot][product-screenshot]
 
 * [![Next][Next.js]][Next-url]
@@ -73,7 +73,8 @@
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
-[Expo GO](https://expo.dev/client)🔼 provides a layer on top of the [React Native](https://reactnative.dev/).⚛️ APIs to make them easier to use and manage. It also provides tools that make it easy to launch and test [React Native](https://reactnative.dev/).⚛️ apps. Finally, it provides services that are normally only available when native and third-party UI components are installed. All are available through the Expo <b>SDK</b>.
+[Expo GO](https://expo.dev/client)🔼 
+Proporciona una capa encima de la [React Native](https://reactnative.dev/).⚛️ API para facilitar su uso y gestión. También proporciona herramientas que facilitan el lanzamiento y las pruebas. [React Native](https://reactnative.dev/).⚛️ Aplicaciones. Por último, ofrece servicios que normalmente solo están disponibles al instalar componentes de interfaz de usuario nativos y de terceros. Todos están disponibles a través de la Expo.<b>SDK</b>.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
