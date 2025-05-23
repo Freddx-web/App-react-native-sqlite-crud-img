@@ -89,7 +89,7 @@ Clonar repositorio
 
 ### Instalation
 
-## carpeta FRONEND
+## carpeta FRONTEND
 Instalacion de todas las dependecias
 
 * npm
@@ -103,6 +103,12 @@ Instalacion de todas las dependecias
 
 - [x] Axios: API REST comunicacion de la aplicacion
 - [x] navigacion y estilo UI modernos
+
+# Levantar FRONTEND
+* npm
+  ```sh
+  npm npm start
+  ```
 
 ## carpeta BACKEND
 
@@ -120,10 +126,15 @@ Instalacion de todas las dependecias
 - [x] JSON Web Token (JWT): Anti Sql injection en registro de susuarios y login
 - [x] Cookies Expiracion 1h 
 
+# Levantar BACKEND
+* npm
+  ```sh
+  npm npm run dev
+  ```
 
 ## DATABASE
 
-Instalacion de programas externa para manejar los datos SQL
+Para la Instalacion de la base de datos se instala <a href="https://sqlitebrowser.org/">https://sqlitebrowser.org/ </a> externa para manejar los datos SQL, y para levantar la base de datos llamado 'gallery.db' en la carpeta BACKEND 
 
 #Ventajas
 
@@ -132,6 +143,7 @@ Instalacion de programas externa para manejar los datos SQL
    
 - [x] SQLite: Base de Datos Principal <a href="https://sqlitebrowser.org/">https://sqlitebrowser.org/ </a>
 - [X] MongoDB: Autenticacion de usuarios
+
 
 
 
@@ -149,7 +161,7 @@ Instalacion de programas externa para manejar los datos SQL
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/freddr-ruiz-90932b202/
-[product-screenshot]: client/assets/expo.png
+[product-screenshot]: assets/expo.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
