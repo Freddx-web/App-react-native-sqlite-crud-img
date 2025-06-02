@@ -84,7 +84,7 @@ Proporciona una capa encima de la [React Native](https://reactnative.dev/).âš›ï¸
 
 Clonar repositorio 
 
-# Git Import Rep
+## Git Import Rep
   ```sh
   git clone https://github.com/Freddx-web/App-test-gallery-img.git
   ```
@@ -135,7 +135,7 @@ para descarga todas las dependecias
 - [x] JSON Web Token (JWT): Anti Sql injection en registro de susuarios y login
 - [x] Cookies Expiracion 1h 
 
-# Levantar Server
+## Levantar Server
 Para levantar el Backend:
 * npm
   ```sh
@@ -149,7 +149,7 @@ y el otro es <b>Mongodb<b/> es para autenticacion de usuario para usar <b>JSON W
 
 
 
-# instalacion npm
+## instalacion npm
 
 - SQLite3 (npm i sqlite3)
 * npm
@@ -170,7 +170,7 @@ y el otro es <b>Mongodb<b/> es para autenticacion de usuario para usar <b>JSON W
 - User 
 
 
-# Tabla de consulta SQL para SqlLite
+## Tabla de consulta SQL para SqlLite
 
 - gallery.db
 
